@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Zhichao Wang was a Research Fellow at School of [Electrical Engineering and Telecommunications](https://www.unsw.edu.au/engineering/our-schools/electrical-engineering-telecommunications) at [University of New South Wales](https://www.unsw.edu.au), under supervision of [Prof. Victor Solo](https://www2.ee.unsw.edu.au/~victors/) between 2019-2021. Before that he got the Phd degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/), department of automation in 2018, China. 
+Zhichao Wang was a Research Fellow at [Electrical Engineering and Telecommunications](https://www.unsw.edu.au/engineering/our-schools/electrical-engineering-telecommunications) at [University of New South Wales](https://www.unsw.edu.au), under supervision of [Prof. Victor Solo](https://www2.ee.unsw.edu.au/~victors/). Before that he got the Phd degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/), department of automation, China. 
 His papers have been published in the top-tier conferences and journals in the field of machine learning,  data mining and control science, such as CDC, ICASSP, CVPR, AAAI, CIKM, Journal of Process Control, IEEE-TCSVT, IEEE- VLDB, IEEE-TKDE, ACM-TKDD, IEEE-TNNLS etc.
 
 A data-driven personal website
