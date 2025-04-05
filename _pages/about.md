@@ -10,11 +10,19 @@ redirect_from:
 Zhichao Wang was a Research Fellow at [Electrical Engineering and Telecommunications](https://www.unsw.edu.au/engineering/our-schools/electrical-engineering-telecommunications) at [University of New South Wales](https://www.unsw.edu.au), under supervision of [Prof. Victor Solo](https://www2.ee.unsw.edu.au/~victors/). Before that he got the Phd degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/), department of automation, China. 
 His papers have been published in the top-tier conferences and journals in the field of machine learning,  data mining and control science, such as CDC, ICASSP, CVPR, AAAI, CIKM, Journal of Process Control, IEEE-TCSVT, IEEE- VLDB, IEEE-TKDE, ACM-TKDD, IEEE-TNNLS etc.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## News
+- [4-June-2024] Our research paper titled "HOT-GAN: Hilbert Optimal Transport for Generative Adversarial Network" is online by top journal IEEE Transactions on Neural Networks and Learning Systems  (TNNLS, CORE A*),
+- [2 Oct 2023 ]Our research paper titled "Be causal: De-biasing social network confounding in recommendation" is accepted by top journal ACM Transactions on Knowledge Discovery from Data  (TKDD, CORE A*), Congratulations to Xiangmeng and Dianer! 
+I was invited as program committee for NeurIPS2023, ICML2023
+- [2 March 2022] Our research paper titled "Causal Disentanglement for Semantics-Aware Intent Learning in Recommendation" is accepted by top journal IEEE Transactions on Knowledge and Data Engineering (TKDE, CORE A*), Congratulations to Xiangmeng and Dianer! 
+I was invited as program committee for CVPR2022, ICML2022
+- [27 September 2021]One research paper titled "Causal Optimal Transport for Treatment Effect Estimation." is accepted by top journal IEEE Transactions on Neural Networks and Learning Systems (TNNLS, CORE A*).
+- [5 September 2021]I was invited as a program committee for ICLR2022.
+- [17 August 2021] I was invited as a program committee for AAAI2022.
+- [9 August 2021] One research paper on causal reasoning is accepted by the top conference - CIKM 2021 (CORE A).
+- [20 July 2021] I was invited as a reviewer for Journal of Knowledge based systems. 
+- [15 July 2021] One research paper titled "Convergence of a Tangent Space Numerical Scheme for a Stochastic Differential Equation on a Sphere " is accepted by IEEE CDC 2021.
+- [9 March 2021] One research paper titled "Hilbert Sinkhorn Divergence for Optimal Transport" is accepted by the top conference - CVPR 2021 (CORE A*).
 
 Getting started
 ======
