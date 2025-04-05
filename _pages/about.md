@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Zhichao Wang was a Research Fellow at School of Electrical Engineering and Telecommunications at University of New South Wales (ranked at 19 QS World University Ranking-2024), under supervision of Prof. Victor Solo between 2019-2021. Before that he got the Phd degree from Tsinghua University, department of automation in 2018, China. 
+Now he is working at the largest general insurance company Insurance Australia Group (IAG) as Data Scientist, Australia, and he is passionate about achieving valuable data outcomes and producing actionable insights. 
+His papers have been published in the top-tier conferences and journals in the field of machine learning,  data mining and control science, such as CDC, ICASSP, CVPR, AAAI, CIKM, Journal of Process Control, IEEE-TCSVT, IEEE- VLDB, IEEE-TKDE, ACM-TKDD, IEEE-TNNLS etc.
 
 A data-driven personal website
 ======
